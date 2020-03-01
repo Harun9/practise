@@ -1,0 +1,38 @@
+body{
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat;
+  font-family: Arial;
+  font-size: 18px;
+  color: #777;
+  line-height: 28px;
+}
+.jumbotron {
+  background: purple;
+  display: block;
+  
+  
+}
+.logo {
+  float: left;
+  display: block;
+  background-color: #7FA6A5;
+  color:#fff;
+  font-family: "Georgia";
+  font-size: 30px;
+  padding: 0 40px;
+  line-height: 90px;
+  font-weight: bold;
+  text-decoration: none
+}
+
+hr {
+  border-color: inherit;
+  margin: 1em 0;
+}
+.smalltitle {
+  color: lightgreen;
+}
+#results {
+  overflow: hidden;
+  width: 500px;
+}
